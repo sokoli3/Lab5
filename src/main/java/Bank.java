@@ -42,9 +42,11 @@ public class Bank {
      * @return boolean
      */
     public boolean depositMoney(final BankAccount bankAccount, final double amount) {
-        /*
-         * Implement this function
-         */
+        if (){
+            return true;
+        } else {
+            return false;
+        }
     }
 
     /**
